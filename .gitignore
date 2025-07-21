@@ -1,0 +1,13 @@
+# Ambientes Virtuais
+# Adicione o nome da sua pasta de ambiente virtual aqui!
+.analise/
+.venv/
+venv/
+env/
+
+# Cache e arquivos compilados do Python
+__pycache__/
+*.pyc
+
+# Pasta de configurações do VSCode
+.vscode/
